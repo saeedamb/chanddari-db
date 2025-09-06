@@ -1,8 +1,1 @@
-services:
-  - type: web
-    name: chanddari-db
-    env: docker
-    plan: free
-    buildCommand: ""
-    startCommand: "./start.sh"
-    envVars: []
+
